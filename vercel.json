@@ -1,0 +1,1591 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-roofing.html",
+      "destination": "/commercial-roofing",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/emergency-roof-repair.html",
+      "destination": "/emergency-roof-repair",
+      "permanent": true
+    },
+    {
+      "source": "/hail-damage-roof-repair.html",
+      "destination": "/hail-damage-roof-repair",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/residential-roofing.html",
+      "destination": "/residential-roofing",
+      "permanent": true
+    },
+    {
+      "source": "/roof-inspection.html",
+      "destination": "/roof-inspection",
+      "permanent": true
+    },
+    {
+      "source": "/roof-leak-repair.html",
+      "destination": "/roof-leak-repair",
+      "permanent": true
+    },
+    {
+      "source": "/roof-maintenance.html",
+      "destination": "/roof-maintenance",
+      "permanent": true
+    },
+    {
+      "source": "/roof-repair.html",
+      "destination": "/roof-repair",
+      "permanent": true
+    },
+    {
+      "source": "/roof-replacement.html",
+      "destination": "/roof-replacement",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-abilene.html",
+      "destination": "/roofing-abilene",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-addison.html",
+      "destination": "/roofing-addison",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-alamo.html",
+      "destination": "/roofing-alamo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-aldine.html",
+      "destination": "/roofing-aldine",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-alice.html",
+      "destination": "/roofing-alice",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-allen.html",
+      "destination": "/roofing-allen",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-alton.html",
+      "destination": "/roofing-alton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-alvin.html",
+      "destination": "/roofing-alvin",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-amarillo.html",
+      "destination": "/roofing-amarillo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-andrews.html",
+      "destination": "/roofing-andrews",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-angleton.html",
+      "destination": "/roofing-angleton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-anna.html",
+      "destination": "/roofing-anna",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-aransas-pass.html",
+      "destination": "/roofing-aransas-pass",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-arlington.html",
+      "destination": "/roofing-arlington",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-atascocita.html",
+      "destination": "/roofing-atascocita",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-athens.html",
+      "destination": "/roofing-athens",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-austin.html",
+      "destination": "/roofing-austin",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-azle.html",
+      "destination": "/roofing-azle",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bacliff.html",
+      "destination": "/roofing-bacliff",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-balch-springs.html",
+      "destination": "/roofing-balch-springs",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bastrop.html",
+      "destination": "/roofing-bastrop",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bay-city.html",
+      "destination": "/roofing-bay-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-baytown.html",
+      "destination": "/roofing-baytown",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-beaumont.html",
+      "destination": "/roofing-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bedford.html",
+      "destination": "/roofing-bedford",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bee-cave.html",
+      "destination": "/roofing-bee-cave",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-beeville.html",
+      "destination": "/roofing-beeville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bellaire.html",
+      "destination": "/roofing-bellaire",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bellmead.html",
+      "destination": "/roofing-bellmead",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-belton.html",
+      "destination": "/roofing-belton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-benbrook.html",
+      "destination": "/roofing-benbrook",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-big-spring.html",
+      "destination": "/roofing-big-spring",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-boerne.html",
+      "destination": "/roofing-boerne",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bonham.html",
+      "destination": "/roofing-bonham",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-borger.html",
+      "destination": "/roofing-borger",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-brenham.html",
+      "destination": "/roofing-brenham",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bridge-city.html",
+      "destination": "/roofing-bridge-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-brownfield.html",
+      "destination": "/roofing-brownfield",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-brownsville.html",
+      "destination": "/roofing-brownsville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-brownwood.html",
+      "destination": "/roofing-brownwood",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-brushy-creek.html",
+      "destination": "/roofing-brushy-creek",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-bryan.html",
+      "destination": "/roofing-bryan",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-buda.html",
+      "destination": "/roofing-buda",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-burkburnett.html",
+      "destination": "/roofing-burkburnett",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-burleson.html",
+      "destination": "/roofing-burleson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-canyon.html",
+      "destination": "/roofing-canyon",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-canyon-lake.html",
+      "destination": "/roofing-canyon-lake",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-carrollton.html",
+      "destination": "/roofing-carrollton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cedar-hill.html",
+      "destination": "/roofing-cedar-hill",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cedar-park.html",
+      "destination": "/roofing-cedar-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-celina.html",
+      "destination": "/roofing-celina",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-channelview.html",
+      "destination": "/roofing-channelview",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cibolo.html",
+      "destination": "/roofing-cibolo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cinco-ranch.html",
+      "destination": "/roofing-cinco-ranch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cleburne.html",
+      "destination": "/roofing-cleburne",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cleveland.html",
+      "destination": "/roofing-cleveland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-cloverleaf.html",
+      "destination": "/roofing-cloverleaf",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-clute.html",
+      "destination": "/roofing-clute",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-college-station.html",
+      "destination": "/roofing-college-station",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-colleyville.html",
+      "destination": "/roofing-colleyville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-commerce.html",
+      "destination": "/roofing-commerce",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-conroe.html",
+      "destination": "/roofing-conroe",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-converse.html",
+      "destination": "/roofing-converse",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-coppell.html",
+      "destination": "/roofing-coppell",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-copperas-cove.html",
+      "destination": "/roofing-copperas-cove",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-corinth.html",
+      "destination": "/roofing-corinth",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-corpus-christi.html",
+      "destination": "/roofing-corpus-christi",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-corsicana.html",
+      "destination": "/roofing-corsicana",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-crowley.html",
+      "destination": "/roofing-crowley",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-dallas.html",
+      "destination": "/roofing-dallas",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-dayton.html",
+      "destination": "/roofing-dayton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-deer-park.html",
+      "destination": "/roofing-deer-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-del-rio.html",
+      "destination": "/roofing-del-rio",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-denison.html",
+      "destination": "/roofing-denison",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-denton.html",
+      "destination": "/roofing-denton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-desoto.html",
+      "destination": "/roofing-desoto",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-dickinson.html",
+      "destination": "/roofing-dickinson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-donna.html",
+      "destination": "/roofing-donna",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-dumas.html",
+      "destination": "/roofing-dumas",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-duncanville.html",
+      "destination": "/roofing-duncanville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-eagle-pass.html",
+      "destination": "/roofing-eagle-pass",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-edinburg.html",
+      "destination": "/roofing-edinburg",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-eidson-road.html",
+      "destination": "/roofing-eidson-road",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-el-campo.html",
+      "destination": "/roofing-el-campo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-el-paso.html",
+      "destination": "/roofing-el-paso",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-elgin.html",
+      "destination": "/roofing-elgin",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-ennis.html",
+      "destination": "/roofing-ennis",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-euless.html",
+      "destination": "/roofing-euless",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fair-oaks-ranch.html",
+      "destination": "/roofing-fair-oaks-ranch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fairview.html",
+      "destination": "/roofing-fairview",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-farmers-branch.html",
+      "destination": "/roofing-farmers-branch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fate.html",
+      "destination": "/roofing-fate",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-flower-mound.html",
+      "destination": "/roofing-flower-mound",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-forest-hill.html",
+      "destination": "/roofing-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-forney.html",
+      "destination": "/roofing-forney",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fort-bliss.html",
+      "destination": "/roofing-fort-bliss",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fort-hood.html",
+      "destination": "/roofing-fort-hood",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fort-worth.html",
+      "destination": "/roofing-fort-worth",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-four-corners.html",
+      "destination": "/roofing-four-corners",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fredericksburg.html",
+      "destination": "/roofing-fredericksburg",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-freeport.html",
+      "destination": "/roofing-freeport",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fresno.html",
+      "destination": "/roofing-fresno",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-friendswood.html",
+      "destination": "/roofing-friendswood",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-frisco.html",
+      "destination": "/roofing-frisco",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-fulshear.html",
+      "destination": "/roofing-fulshear",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-gainesville.html",
+      "destination": "/roofing-gainesville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-galena-park.html",
+      "destination": "/roofing-galena-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-galveston.html",
+      "destination": "/roofing-galveston",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-garland.html",
+      "destination": "/roofing-garland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-gatesville.html",
+      "destination": "/roofing-gatesville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-georgetown.html",
+      "destination": "/roofing-georgetown",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-glenn-heights.html",
+      "destination": "/roofing-glenn-heights",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-graham.html",
+      "destination": "/roofing-graham",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-granbury.html",
+      "destination": "/roofing-granbury",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-grand-prairie.html",
+      "destination": "/roofing-grand-prairie",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-grapevine.html",
+      "destination": "/roofing-grapevine",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-greenville.html",
+      "destination": "/roofing-greenville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-groves.html",
+      "destination": "/roofing-groves",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-haltom-city.html",
+      "destination": "/roofing-haltom-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-harker-heights.html",
+      "destination": "/roofing-harker-heights",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-harlingen.html",
+      "destination": "/roofing-harlingen",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-heartland.html",
+      "destination": "/roofing-heartland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-heath.html",
+      "destination": "/roofing-heath",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-helotes.html",
+      "destination": "/roofing-helotes",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-henderson.html",
+      "destination": "/roofing-henderson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hereford.html",
+      "destination": "/roofing-hereford",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hewitt.html",
+      "destination": "/roofing-hewitt",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hidalgo.html",
+      "destination": "/roofing-hidalgo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-highland-park.html",
+      "destination": "/roofing-highland-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-highland-village.html",
+      "destination": "/roofing-highland-village",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hondo.html",
+      "destination": "/roofing-hondo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-horizon-city.html",
+      "destination": "/roofing-horizon-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hornsby-bend.html",
+      "destination": "/roofing-hornsby-bend",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-houston.html",
+      "destination": "/roofing-houston",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-humble.html",
+      "destination": "/roofing-humble",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-huntsville.html",
+      "destination": "/roofing-huntsville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hurst.html",
+      "destination": "/roofing-hurst",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-hutto.html",
+      "destination": "/roofing-hutto",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-ingleside.html",
+      "destination": "/roofing-ingleside",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-iowa-colony.html",
+      "destination": "/roofing-iowa-colony",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-irving.html",
+      "destination": "/roofing-irving",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-jacinto-city.html",
+      "destination": "/roofing-jacinto-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-jacksonville.html",
+      "destination": "/roofing-jacksonville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-joshua.html",
+      "destination": "/roofing-joshua",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-katy.html",
+      "destination": "/roofing-katy",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-keller.html",
+      "destination": "/roofing-keller",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-kennedale.html",
+      "destination": "/roofing-kennedale",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-kerrville.html",
+      "destination": "/roofing-kerrville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-kilgore.html",
+      "destination": "/roofing-kilgore",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-killeen.html",
+      "destination": "/roofing-killeen",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-kingsville.html",
+      "destination": "/roofing-kingsville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-kyle.html",
+      "destination": "/roofing-kyle",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-la-homa.html",
+      "destination": "/roofing-la-homa",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-la-marque.html",
+      "destination": "/roofing-la-marque",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-la-porte.html",
+      "destination": "/roofing-la-porte",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lago-vista.html",
+      "destination": "/roofing-lago-vista",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lake-jackson.html",
+      "destination": "/roofing-lake-jackson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lakeway.html",
+      "destination": "/roofing-lakeway",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lancaster.html",
+      "destination": "/roofing-lancaster",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lantana.html",
+      "destination": "/roofing-lantana",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-laredo.html",
+      "destination": "/roofing-laredo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-league-city.html",
+      "destination": "/roofing-league-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-leander.html",
+      "destination": "/roofing-leander",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-leon-valley.html",
+      "destination": "/roofing-leon-valley",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-levelland.html",
+      "destination": "/roofing-levelland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lewisville.html",
+      "destination": "/roofing-lewisville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-liberty.html",
+      "destination": "/roofing-liberty",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-little-elm.html",
+      "destination": "/roofing-little-elm",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-live-oak.html",
+      "destination": "/roofing-live-oak",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lockhart.html",
+      "destination": "/roofing-lockhart",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-longview.html",
+      "destination": "/roofing-longview",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lubbock.html",
+      "destination": "/roofing-lubbock",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lufkin.html",
+      "destination": "/roofing-lufkin",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-lumberton.html",
+      "destination": "/roofing-lumberton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-manor.html",
+      "destination": "/roofing-manor",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mansfield.html",
+      "destination": "/roofing-mansfield",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-manvel.html",
+      "destination": "/roofing-manvel",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-marshall.html",
+      "destination": "/roofing-marshall",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mcallen.html",
+      "destination": "/roofing-mcallen",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mckinney.html",
+      "destination": "/roofing-mckinney",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-melissa.html",
+      "destination": "/roofing-melissa",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mercedes.html",
+      "destination": "/roofing-mercedes",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mesquite.html",
+      "destination": "/roofing-mesquite",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-midland.html",
+      "destination": "/roofing-midland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-midlothian.html",
+      "destination": "/roofing-midlothian",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mineral-wells.html",
+      "destination": "/roofing-mineral-wells",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mission.html",
+      "destination": "/roofing-mission",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mission-bend.html",
+      "destination": "/roofing-mission-bend",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-missouri-city.html",
+      "destination": "/roofing-missouri-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mont-belvieu.html",
+      "destination": "/roofing-mont-belvieu",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-mount-pleasant.html",
+      "destination": "/roofing-mount-pleasant",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-murillo.html",
+      "destination": "/roofing-murillo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-murphy.html",
+      "destination": "/roofing-murphy",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-nacogdoches.html",
+      "destination": "/roofing-nacogdoches",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-navasota.html",
+      "destination": "/roofing-navasota",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-nederland.html",
+      "destination": "/roofing-nederland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-new-braunfels.html",
+      "destination": "/roofing-new-braunfels",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-north-richland-hills.html",
+      "destination": "/roofing-north-richland-hills",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-odessa.html",
+      "destination": "/roofing-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-orange.html",
+      "destination": "/roofing-orange",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-palestine.html",
+      "destination": "/roofing-palestine",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-palmview.html",
+      "destination": "/roofing-palmview",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-paloma-creek-south.html",
+      "destination": "/roofing-paloma-creek-south",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pampa.html",
+      "destination": "/roofing-pampa",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-paris.html",
+      "destination": "/roofing-paris",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pasadena.html",
+      "destination": "/roofing-pasadena",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pearland.html",
+      "destination": "/roofing-pearland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pearsall.html",
+      "destination": "/roofing-pearsall",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pecan-grove.html",
+      "destination": "/roofing-pecan-grove",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-perryton.html",
+      "destination": "/roofing-perryton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pflugerville.html",
+      "destination": "/roofing-pflugerville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pharr.html",
+      "destination": "/roofing-pharr",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-plainview.html",
+      "destination": "/roofing-plainview",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-plano.html",
+      "destination": "/roofing-plano",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-pleasanton.html",
+      "destination": "/roofing-pleasanton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-port-arthur.html",
+      "destination": "/roofing-port-arthur",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-port-lavaca.html",
+      "destination": "/roofing-port-lavaca",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-port-neches.html",
+      "destination": "/roofing-port-neches",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-portland.html",
+      "destination": "/roofing-portland",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-princeton.html",
+      "destination": "/roofing-princeton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-prosper.html",
+      "destination": "/roofing-prosper",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-providence-village.html",
+      "destination": "/roofing-providence-village",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-raymondville.html",
+      "destination": "/roofing-raymondville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-red-oak.html",
+      "destination": "/roofing-red-oak",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rendon.html",
+      "destination": "/roofing-rendon",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-richardson.html",
+      "destination": "/roofing-richardson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-richmond.html",
+      "destination": "/roofing-richmond",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rio-grande-city.html",
+      "destination": "/roofing-rio-grande-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-roanoke.html",
+      "destination": "/roofing-roanoke",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-robinson.html",
+      "destination": "/roofing-robinson",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-robstown.html",
+      "destination": "/roofing-robstown",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rockport.html",
+      "destination": "/roofing-rockport",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rockwall.html",
+      "destination": "/roofing-rockwall",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-roma.html",
+      "destination": "/roofing-roma",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rosenberg.html",
+      "destination": "/roofing-rosenberg",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-round-rock.html",
+      "destination": "/roofing-round-rock",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-rowlett.html",
+      "destination": "/roofing-rowlett",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-royse-city.html",
+      "destination": "/roofing-royse-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sachse.html",
+      "destination": "/roofing-sachse",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-saginaw.html",
+      "destination": "/roofing-saginaw",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-angelo.html",
+      "destination": "/roofing-san-angelo",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-antonio.html",
+      "destination": "/roofing-san-antonio",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-benito.html",
+      "destination": "/roofing-san-benito",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-elizario.html",
+      "destination": "/roofing-san-elizario",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-juan.html",
+      "destination": "/roofing-san-juan",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-san-marcos.html",
+      "destination": "/roofing-san-marcos",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sanger.html",
+      "destination": "/roofing-sanger",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-santa-fe.html",
+      "destination": "/roofing-santa-fe",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-scenic-oaks.html",
+      "destination": "/roofing-scenic-oaks",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-schertz.html",
+      "destination": "/roofing-schertz",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-seabrook.html",
+      "destination": "/roofing-seabrook",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-seagoville.html",
+      "destination": "/roofing-seagoville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-seguin.html",
+      "destination": "/roofing-seguin",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-selma.html",
+      "destination": "/roofing-selma",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sherman.html",
+      "destination": "/roofing-sherman",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-snyder.html",
+      "destination": "/roofing-snyder",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-socorro.html",
+      "destination": "/roofing-socorro",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sonterra.html",
+      "destination": "/roofing-sonterra",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-south-houston.html",
+      "destination": "/roofing-south-houston",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-southlake.html",
+      "destination": "/roofing-southlake",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-spring.html",
+      "destination": "/roofing-spring",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-stafford.html",
+      "destination": "/roofing-stafford",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-steiner-ranch.html",
+      "destination": "/roofing-steiner-ranch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-stephenville.html",
+      "destination": "/roofing-stephenville",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sugar-land.html",
+      "destination": "/roofing-sugar-land",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sulphur-springs.html",
+      "destination": "/roofing-sulphur-springs",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-sweetwater.html",
+      "destination": "/roofing-sweetwater",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-taylor.html",
+      "destination": "/roofing-taylor",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-temple.html",
+      "destination": "/roofing-temple",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-terrell.html",
+      "destination": "/roofing-terrell",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-texarkana.html",
+      "destination": "/roofing-texarkana",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-texas-city.html",
+      "destination": "/roofing-texas-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-the-colony.html",
+      "destination": "/roofing-the-colony",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-the-woodlands.html",
+      "destination": "/roofing-the-woodlands",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-timberwood-park.html",
+      "destination": "/roofing-timberwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-tomball.html",
+      "destination": "/roofing-tomball",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-travis-ranch.html",
+      "destination": "/roofing-travis-ranch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-trophy-club.html",
+      "destination": "/roofing-trophy-club",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-tyler.html",
+      "destination": "/roofing-tyler",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-universal-city.html",
+      "destination": "/roofing-universal-city",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-university-park.html",
+      "destination": "/roofing-university-park",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-uvalde.html",
+      "destination": "/roofing-uvalde",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-vernon.html",
+      "destination": "/roofing-vernon",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-victoria.html",
+      "destination": "/roofing-victoria",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-vidor.html",
+      "destination": "/roofing-vidor",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-waco.html",
+      "destination": "/roofing-waco",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-watauga.html",
+      "destination": "/roofing-watauga",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-waxahachie.html",
+      "destination": "/roofing-waxahachie",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-weatherford.html",
+      "destination": "/roofing-weatherford",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-webster.html",
+      "destination": "/roofing-webster",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-wells-branch.html",
+      "destination": "/roofing-wells-branch",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-weslaco.html",
+      "destination": "/roofing-weslaco",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-west-odessa.html",
+      "destination": "/roofing-west-odessa",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-west-university-place.html",
+      "destination": "/roofing-west-university-place",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-wharton.html",
+      "destination": "/roofing-wharton",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-white-settlement.html",
+      "destination": "/roofing-white-settlement",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-whitehouse.html",
+      "destination": "/roofing-whitehouse",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-wichita-falls.html",
+      "destination": "/roofing-wichita-falls",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-woodway.html",
+      "destination": "/roofing-woodway",
+      "permanent": true
+    },
+    {
+      "source": "/roofing-wylie.html",
+      "destination": "/roofing-wylie",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/storm-damage-roof-repair.html",
+      "destination": "/storm-damage-roof-repair",
+      "permanent": true
+    }
+  ]
+}
